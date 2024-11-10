@@ -101,7 +101,7 @@ main section p {
     padding-top: 1rem;
     padding-bottom: 1rem;
     font-weight: 200;
-    text-align: justify;
+    text-align: start;
 }
 
 body main section .img-spc {
